@@ -1,4 +1,4 @@
-# todo-regex [![NPM version](https://badge.fury.io/js/todo-regex.svg)](http://badge.fury.io/js/todo-regex)
+# todo-regex [![NPM version](https://badge.fury.io/js/todo-regex.svg)](http://badge.fury.io/js/todo-regex)  [![Build Status](https://travis-ci.org/regexps/todo-regex.svg)](https://travis-ci.org/regexps/todo-regex)
 
 > Regular expression for matching TODO statements in a string.
 
