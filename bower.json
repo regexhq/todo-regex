@@ -10,6 +10,7 @@
   "main": [
     "index.js"
   ],
+  "ignore": [".*"],
   "devDependencies": {
     "mocha": "*"
   },
