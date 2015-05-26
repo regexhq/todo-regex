@@ -1,0 +1,23 @@
+{
+  "name": "todo-regex",
+  "description": "Regular expression for matching TODO statements in a string.",
+  "repository": "regexps/todo-regex",
+  "license": "MIT",
+  "homepage": "https://github.com/regexps/todo-regex",
+  "authors": [
+    "Jon Schlinkert (https://github.com/jonschlinkert)"
+  ],
+  "main": [
+    "index.js"
+  ],
+  "devDependencies": {
+    "mocha": "*"
+  },
+  "keywords": [
+    "expression",
+    "regex",
+    "regexp",
+    "regular",
+    "todo"
+  ]
+}
